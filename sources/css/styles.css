@@ -1,0 +1,15 @@
+#page-header {
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    text-align: center;
+}
+.index {
+    text-align: center;
+    margin-top: 25px;
+}
+
+.index button {
+
+}
