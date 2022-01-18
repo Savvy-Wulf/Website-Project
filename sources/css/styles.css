@@ -48,3 +48,8 @@ label.logo {
     font-weight: bold;
     font-family: "Bebas Neue";
 }
+
+body {
+    background-image: url("./images/NY-bg.png");
+    background-size: cover;
+}
