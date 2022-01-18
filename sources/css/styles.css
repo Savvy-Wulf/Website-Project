@@ -9,6 +9,7 @@
 nav {
     position: fixed;
     width: 100%;
+    top: 0;
     background: beige;
     height: 80px;
 }
@@ -52,4 +53,8 @@ label.logo {
 body {
     background-image: url("./images/NY-bg.png");
     background-size: cover;
+}
+
+body main {
+    margin-top: 90px;
 }
